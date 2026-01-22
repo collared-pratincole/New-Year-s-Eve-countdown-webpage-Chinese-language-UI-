@@ -30,8 +30,8 @@ Deployment Root Directory (all files/folders at the same level, upload directly 
 ├── [Other Frontend/Backend Files] # All HTML/PHP/JS/CSS files (place directly, no changes)
 
 ### Step 1: File Preparation & Placement
-1. Copy the `media/` and `music/` folders directly to the deployment root directory;
-2. Place all frontend/backend code files (HTML/PHP/JS/CSS, etc.) directly in the root directory, **do not nest in any folders**;
+1. Copy the `media/` and `music/` zip folders directly to the deployment root directory, **REMEMBER TO UNZIP THEM**;
+2. Place all frontend/backend code files (from HTML.zip PHP.zip SQL.zip) directly in the root directory, **REMEMBER TO UNZIP THEM**, **do not nest in any folders**;
 3. Put `config.php`, `LICENSE` and `README.md` in the root directory to match the above structure exactly.
    
 ### Step 2: Database Configuration (Critical! MUST Modify)
