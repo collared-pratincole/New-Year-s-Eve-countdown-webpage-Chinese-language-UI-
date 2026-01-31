@@ -1,4 +1,5 @@
 # NYE Carnival Countdown Webpage (Year-Universal Version)
+## （中文readme见B站“搞机的初中生一枚”）
 ## 📌 Project Overview
 A universal New Year's Eve interactive countdown webpage with Simplified Chinese UI, integrating immersive visual effects, real-time visitor statistics and online chat functions. It supports static + backend linkage deployment, no complex configuration required, and is compatible with any Gregorian New Year.
 
